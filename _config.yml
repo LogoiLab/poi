@@ -1,8 +1,8 @@
 # Site
 title:              All Waves Dreaming
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+bio:                'Welcome to the beach'
+description:        "Welcome to the beach"
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
